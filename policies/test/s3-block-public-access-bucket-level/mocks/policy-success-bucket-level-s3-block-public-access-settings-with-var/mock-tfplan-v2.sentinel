@@ -1,6 +1,0 @@
-variables = {
-	"public_acls_enabled": {
-		"name":  "public_acls_enabled",
-		"value": true,
-	},
-}

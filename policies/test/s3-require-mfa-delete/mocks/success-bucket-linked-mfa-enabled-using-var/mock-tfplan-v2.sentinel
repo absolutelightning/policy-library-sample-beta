@@ -1,6 +1,0 @@
-variables = {
-	"enable": {
-		"name":  "enable",
-		"value": "Enabled",
-	},
-}
